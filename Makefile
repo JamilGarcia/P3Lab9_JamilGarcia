@@ -1,5 +1,5 @@
 all:
-	g++ P3Lab9_JamilGarcia\ 
+	g++ main.cpp \
 	-o run
 clean: 
 	del run.exe
